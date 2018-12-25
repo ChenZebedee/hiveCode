@@ -34,8 +34,8 @@ public class MD5 {
         return encodingStr;
     }
 
-    /*public static void main(String[] args) {
-        String a = new MD5().md5("test");
+    public static void main(String[] args) {
+        String a = new MD5().md5("admin");
         System.out.println(a);
-    }*/
+    }
 }
